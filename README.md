@@ -17,7 +17,6 @@ Tools & Platforms: Git, GitHub, VS Code, Webstrom.
 Projects
 Here are a few projects that I’ve worked on:
 
-Check out more on my GitHub Profile!
 
 Education
 Bsc degree in Computer Science – Sathavahana University
